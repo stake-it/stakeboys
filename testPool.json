@@ -1,6 +1,1 @@
-{
-        "name": "TestIT",
-        "description": "The pool that is owned by the TestBoys",
-        "ticker": "TESTI",
-        "homepage": "https://testit.com/"
-}
+{"name":"TestIT","ticker":"TESTI","description":"The pool that is owned by the TestBoys","homepage":"https://testit.com","nonce":"1614851566"}
